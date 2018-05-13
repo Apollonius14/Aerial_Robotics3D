@@ -1,9 +1,8 @@
-Computer-generated Suduko game.
-Author(s): UPenn School of Engineering and Applied Science
-Contirbutor: Omar Kadhim - Spring 2018
-
 MATLAB Library to simulate the motion of a quadcopter drone through
 user customizable trajectories, control laws and dynamical models.
+
+Author(s): UPenn School of Engineering and Applied Science
+Contirbutor: Omar Kadhim - Spring 2018
 
 IMPORTANTLY: this is an educational library and the vast majority of the
 code, from the equations of motion, to the differential equation solver and
