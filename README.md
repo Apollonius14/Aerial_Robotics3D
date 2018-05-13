@@ -1,3 +1,7 @@
+___
+
+### Aerial Robotics
+
 MATLAB Library to simulate the motion of a quadcopter drone through
 user customizable trajectories, control laws and dynamical models.
 
