@@ -32,7 +32,7 @@ ___
 Rev1: May 2018. Minimum jerk trajectory generator for a 5-waypoint path, choice
 of linear and non-linear controllers.
 
-Rev2: UNDER CONSTRUCTION: generalised n-point trajectory.
+Rev2: May 2018: generalised n-point trajectory.
 ____
 
 ### Getting Started:
