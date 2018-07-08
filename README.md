@@ -6,6 +6,7 @@ MATLAB Library to simulate the motion of a quadcopter drone through
 user customizable trajectories, control laws and dynamical models.
 
 Author(s): UPenn School of Engineering and Applied Science
+
 Contributor: Omar Kadhim - Spring 2018
 
 IMPORTANTLY: this is an educational library and the vast majority of the
@@ -15,9 +16,9 @@ https://www.coursera.org/learn/robotics-flight/
 
 Students are asked to write their own controllers - I have written 
 two, a linearised and non-linear controller, and make them available for
-anyone to use for any purpose. Students are also asked to write their
-own minimum-jerk trajectory generators, which I have also done. My files
-start with OK_ eg. OK_3Dcontroller.m
+anyone to use for any legal and safe purpose. Students are also asked 
+to write their own minimum-jerk trajectory generators, which I have 
+also done. My files start with OK_ eg. OK_3Dcontroller.m
 
 IP Disclaimer: I am not sure whether I'm allowed to re-use and make public
 this modified software library. I genuinely only want to do so to showcase
