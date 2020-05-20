@@ -1,7 +1,5 @@
 function [coffs] = GetCoff(waypoints,times,degree)
 
-%% To-Do: Generalise for more than five waypoints
-
 %%
 % A function that returns the coefficients of a piecewise-assembled
 % 7th order (minimum jerk) polynomial trajectory
